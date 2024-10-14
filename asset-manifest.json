@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/an-office/static/css/main.9b79d7ae.css",
+    "main.js": "/an-office/static/js/main.944d59f9.js",
+    "static/js/453.a10976bf.chunk.js": "/an-office/static/js/453.a10976bf.chunk.js",
+    "index.html": "/an-office/index.html",
+    "main.9b79d7ae.css.map": "/an-office/static/css/main.9b79d7ae.css.map",
+    "main.944d59f9.js.map": "/an-office/static/js/main.944d59f9.js.map",
+    "453.a10976bf.chunk.js.map": "/an-office/static/js/453.a10976bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b79d7ae.css",
+    "static/js/main.944d59f9.js"
+  ]
+}
