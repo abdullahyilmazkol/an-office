@@ -53,7 +53,7 @@ function Navbar(props) {
         <Box component="div" sx={{ flexGrow: 1,  display: 'flex', alignItems: 'center', height: '64px', marginTop: '-40px'  }}>
   <Link to="/" style={{ textDecoration: 'none' }}>
     <img 
-      src="../Uploads/logo.png" 
+      src="https://lh3.googleusercontent.com/proxy/FTTXMZPwwCc70LpyLyuiiGILTBncUk9CwRKeJohFdNXQ2HrG3H38PHSWzHMNK7W2e7If1cUICPqOUYv-ZfJ6cZ0lsrqV0RRM_zFKW8cdOcLxiDOBiy5YkEwoF3O_N4aT-71FdA" 
       alt="Anoffice Logo" 
       style={{ maxWidth: '150px', height: 'auto', cursor: 'pointer' }} 
     />

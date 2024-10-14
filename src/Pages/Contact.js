@@ -15,7 +15,7 @@ import Footer from '../Components/Footer';
 
 const styles = {
   background: {
-    backgroundImage: 'url(../Uploads/1.jpeg)', // Arka plan resmi yolu
+    backgroundImage: 'url(http://www.anilbicer.com/wp-content/uploads/2014/08/01-copy-copy-1.jpg)', // Arka plan resmi yolu
     backgroundSize: 'cover', // 'contain' veya 'cover' seçeneğini kullanın
     backgroundRepeat: 'no-repeat',
     backgroundAttachment: 'fixed',
