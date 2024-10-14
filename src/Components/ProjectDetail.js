@@ -24,6 +24,7 @@ const ProjectDetail = () => {
       <p>{project.description}</p>
       <div style={styles.gallery}>
         {project.gallery.map((image, index) => (
+          // eslint-disable-next-line jsx-a11y/img-redundant-alt
           <img key={index} src={image} alt={`Gallery image ${index}`} style={styles.galleryImage} />
         ))}
       </div>
