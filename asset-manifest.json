@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/an-office/static/css/main.cdb59377.css",
-    "main.js": "/an-office/static/js/main.6e461e62.js",
+    "main.js": "/an-office/static/js/main.759eac07.js",
     "static/js/453.a10976bf.chunk.js": "/an-office/static/js/453.a10976bf.chunk.js",
+    "static/media/logo2.png": "/an-office/static/media/logo2.a6d9b968c579b55fb281.png",
     "index.html": "/an-office/index.html",
     "main.cdb59377.css.map": "/an-office/static/css/main.cdb59377.css.map",
-    "main.6e461e62.js.map": "/an-office/static/js/main.6e461e62.js.map",
+    "main.759eac07.js.map": "/an-office/static/js/main.759eac07.js.map",
     "453.a10976bf.chunk.js.map": "/an-office/static/js/453.a10976bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdb59377.css",
-    "static/js/main.6e461e62.js"
+    "static/js/main.759eac07.js"
   ]
 }
